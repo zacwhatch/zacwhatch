@@ -1,6 +1,5 @@
 <table>
   <tr>
-    <!-- Columna Izquierda: Tech Stack y Redes Sociales -->
     <td width="70%" valign="top">
       
       ### 🛠️ Tecnologías y Lenguajes
@@ -29,9 +28,8 @@
       </p>
 
     </td>
-    <!-- Columna Derecha: Tu Avatar / GIF Anime -->
     <td width="30%" align="center" valign="top">
-      <img src="URL_DE_TU_GIF_O_AVATAR" width="180" style="border-radius: 10px;" alt="Mi Avatar" />
+      <img src="https://github.com/zacwhatch.png" width="180" style="border-radius: 10px;" alt="Mi Avatar" />
     </td>
   </tr>
 </table>
@@ -40,11 +38,3 @@
 
 ## 📌 ¡Hola! Soy un Desarrollador de Software
 Mi pasión es crear herramientas útiles y compartir mi conocimiento.
-
-### 🚀 Mis Proyectos Destacados
-- **[Proyecto A](LINK_A_TU_PROYECTO)**: Un chatbot interactivo con Python.
-- **[Proyecto B](LINK_A_TU_PROYECTO)**: Un panel de datos en React y Node.js.
-
-### 📊 Mis Contribuciones
-Aquí puedes ver un resumen de mi actividad en GitHub:
-![Gráfico de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_DE_GITHUB&theme=react&bg_color=0d1117&hide_border=true)
