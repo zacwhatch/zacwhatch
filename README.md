@@ -1,8 +1,9 @@
+# Diseñador de Front-end
+
 <img src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" width="160" align="right" style="border-radius: 50%; margin-left: 20px; border: 3px solid #3d63dd;" alt="Mi Avatar Animado" />
 
-# Creador de Front-end
 
-Me apasiona el desarrollo, el diseño de interfaces digitales. Siempre buscando aprender nuevas tecnologías y crear herramientas útiles.
+Me apasiona el desarrollo, el diseño de interfaces digitales. Siempre buscando aprender nuevas tecnologías y crear herramientas útiles. 
 
 ### 🛠️ Tecnologías y Lenguajes
 
